@@ -1,4 +1,6 @@
 # CodeClause_Churn_Prediction_in_Telecom_Industry_using_Logistic_Regression
+![image](https://github.com/2110030351/CodeClause_Churn_Prediction_in_Telecom_Industry_using_Logistic_Regression/assets/109647212/ae9ac38c-8d45-4ce2-b5ce-de1d96f8e4a7)
+
 **Project Title:** Customer Churn Analysis in the Telecom Sector
 
 **Introduction:**
